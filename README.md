@@ -1,2 +1,2 @@
-# Quiz_S.O
+# Quiz S.O
 Desenvolvido um quiz sobre Sistemas Operacionais.
